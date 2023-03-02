@@ -1,8 +1,8 @@
 #include <stdlib.h>
 #include <stdio.h>
 
-void main()
+int main()
 {
   
-  return;
+  return 0;
 }
